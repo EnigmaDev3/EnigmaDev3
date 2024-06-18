@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EnigmaDev3/static/css/main.95ef92cd.css",
+    "main.js": "/EnigmaDev3/static/js/main.425e18d0.js",
+    "static/js/453.ed3810f9.chunk.js": "/EnigmaDev3/static/js/453.ed3810f9.chunk.js",
+    "static/media/cert.png": "/EnigmaDev3/static/media/cert.7b9b3aef98bf20942719.png",
+    "static/media/image.png": "/EnigmaDev3/static/media/image.cbeb518807889699daf4.png",
+    "index.html": "/EnigmaDev3/index.html",
+    "main.95ef92cd.css.map": "/EnigmaDev3/static/css/main.95ef92cd.css.map",
+    "main.425e18d0.js.map": "/EnigmaDev3/static/js/main.425e18d0.js.map",
+    "453.ed3810f9.chunk.js.map": "/EnigmaDev3/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ef92cd.css",
+    "static/js/main.425e18d0.js"
+  ]
+}
